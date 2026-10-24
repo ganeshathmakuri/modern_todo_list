@@ -66,7 +66,7 @@ modern_todo_list/
 └── .gitignore
 ```
 
-## ⚙️ Installation and Setup
+##  Installation and Setup
 
 ### Prerequisites
 
@@ -100,7 +100,7 @@ npm start
 
 This will start the React development server and open the application in the browser.
 
-## 🧩 Application Workflow
+##  Application Workflow
 
 The application allows users to:
 
@@ -113,7 +113,7 @@ The application allows users to:
 
 ## 📸 Screenshots
 
-You can add screenshots here to showcase the UI of the todo application.
+
 
 ## 🖥️ Output
 
