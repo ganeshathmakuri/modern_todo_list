@@ -13,7 +13,7 @@
 
 ## Project Overview
 
-The Modern Todo List is a React-based web application designed to help users organize daily tasks efficiently. It allows users to add new tasks, edit them, mark them as completed, and remove them when no longer needed. The app provides a clean and user-friendly interface for managing both active and completed tasks.
+The Modern Todo List is a React-based web application designed to help users organize daily tasks efficiently. It allows users to add new tasks, edit them, mark them as completed, and remove them when needed.
 
 This project focuses on building a simple yet effective task management system using React.js and Bootstrap, helping users stay productive and organized.
 
@@ -66,7 +66,7 @@ modern_todo_list/
 └── .gitignore
 ```
 
-##  Installation and Setup
+## ⚙️ Installation and Setup
 
 ### Prerequisites
 
@@ -100,7 +100,7 @@ npm start
 
 This will start the React development server and open the application in the browser.
 
-##  Application Workflow
+## 🧩 Application Workflow
 
 The application allows users to:
 
@@ -113,7 +113,7 @@ The application allows users to:
 
 ## 📸 Screenshots
 
-
+![Modern Todo List Screenshot](./Screenshot%202026-10-24%20074049.png)
 
 ## 🖥️ Output
 
